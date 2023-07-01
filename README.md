@@ -12,5 +12,5 @@
 9. Jalankan VS Code, **View** > **Command Palette**, ketik ```Flutter: New Project```
 10. Tab **Terminal** > **New Terminal VS Code**, ketik ```flutter run```
 11. Pilih Connected devices: Chrome (chrome)
-# Opsional
+### (Opsional) Enable the Dart:Preview Flutter Ui Guides option
 Jalankan VS Code, **File** > **Preferences** > **Settings** ketik```flutter ui guides```
